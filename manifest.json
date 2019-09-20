@@ -1,0 +1,40 @@
+{
+  "summary" : "Add artboard dimensions",
+  "languages" : [ "en" ],
+  "author" : "Vinicius Philot",
+  "name" : "Add Size to Artboard Title",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "13.0"
+  },
+  "description" : "A simple plugin to add the artboard dimensions after your artboard title.",
+  "helpUrl" : "https://philot.space/add-size-to-artboard-title",
+  "id" : "20476d28",
+  "icons" : [ {
+    "path" : "images/icon@1x.png",
+    "width" : 24,
+    "height" : 24
+  }, {
+    "path" : "images/icon@2x.png",
+    "width" : 48,
+    "height" : 48
+  }, {
+    "path" : "images/icon@3x.png",
+    "width" : 96,
+    "height" : 96
+  }, {
+    "path" : "images/icon@4x.png",
+    "width" : 144,
+    "height" : 144
+  }, {
+    "path" : "images/icon@5x.png",
+    "width" : 192,
+    "height" : 192
+  } ],
+  "uiEntryPoints" : [ {
+    "label" : "Add Size to Artboard Title",
+    "type" : "menu",
+    "commandId" : "addSizeToArtboardTitle"
+  } ],
+  "version" : "0.0.1"
+}
